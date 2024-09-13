@@ -1,0 +1,86 @@
+﻿  App.cpp
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\App.cpp(52,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\App.cpp(52,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Renderer.cpp
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\Renderer.cpp(33,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\Renderer.cpp(33,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Sound.cpp
+  Time.cpp
+  UI.cpp
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(55,54): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(56,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(65,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(65,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(80,124): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(80,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(83,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(83,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(87,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(90,114): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(91,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(92,118): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\LU Software Dev Club Game\src\UI.cpp(93,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Window.cpp
+  Generating code
+  1 of 598 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LU Software Dev Club Game.vcxproj -> C:\Users\willi\OneDrive\Documents\Coding Projects\C++\LU Software Dev Club Game\x64\Release\LU Software Dev Club Game.exe
